@@ -13,7 +13,7 @@ This repository contains the second project for the *Computer Networks (ENCS3320
 ## ⚙️ Key Components
 
 ### 🔹 **Part 0: IP Planning and Subnetting**
-- IP addresses were derived using student ID: `1210737`.
+- IP addresses were derived using student ID: `1210520`.
 - Subnet masks and IP ranges were calculated and assigned to different network segments.
 
 ### 🔹 **Part 1: Network Design**
@@ -21,15 +21,12 @@ This repository contains the second project for the *Computer Networks (ENCS3320
 - Routers, switches, end devices, and servers were configured with valid IP settings.
 
 ### 🔹 **Part 2: Server Setup**
-- **DNS & Web Server** configured with the domain `www.FirstSem2024.com`.
+- **DNS & Web Server** configured with the domain ` www.ENCS3320.com`.
 - A custom webpage was built using HTML and CSS.
 - **Mail Server** setup included user credentials and authentication.
 
 ### 🔹 **Part 3: OSPF Routing Protocol**
-- OSPF routing configured using:
-  - Process ID: `10`
-  - Backbone Area 0 (Core)
-  - Area 1 (Data Center), Areas 2–4 (Companies)
+- OSPF routing configured
 
 ### 🔹 **Part 4: Testing & Verification**
 - Network tested using tools like `ping`, `tracert`, and DNS resolution.
