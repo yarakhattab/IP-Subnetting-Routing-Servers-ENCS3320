@@ -54,24 +54,19 @@ This repository contains the second project for the *Computer Networks (ENCS3320
 
 ---
 
-## 👩‍💻 Contributors
-- **Saja Asfour**  
-  🎓 Computer Engineering @ Birzeit University  
-  🏠 [GitHub: SajaAsfour](https://github.com/SajaAsfour)
+## ✍️ Authors 
 
-- **Shahd Shreteh**  
-  🎓 Computer Engineering @ Birzeit University  
-  🏠 [GitHub: ShahdShreteh](https://github.com/ShahdShreteh)
+**Yara Khattab**  
 
-- **Rawand Bawatneh**  
-  🎓 Computer Engineering @ Birzeit University  
-  🏠 [GitHub: rawandbawatneh](https://github.com/rawandbawatneh)
+  📧 [yarakhattab16@gmail.com](mailto:yarakhattab16@gmail.com) 
 
----
+  
+  🔗 [GitHub: @yarakhattab](https://github.com/yarakhattab)
 
-## 📄 License
-This repository is created for academic purposes. You are welcome to use and adapt the content with proper attribution. 😊
+**Miassar Joher**  
+  🎓 Computer Engineering Student – Birzeit University  
+  
 
----
-
-Do you want a downloadable `README.md` file version too?
+**Taleen Bayatneh**  
+  🎓 Computer Engineering Student – Birzeit University  
+ 
